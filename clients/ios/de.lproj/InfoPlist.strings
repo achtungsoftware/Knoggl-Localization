@@ -1,0 +1,5 @@
+NSLocationWhenInUseUsageDescription = "Wenn du den Zugriff auf deinen Standort zulässt, kannst du Ihn mit deinen Freunden teilen.";
+NSLocationAlwaysUsageDescription = "Wenn du den Zugriff auf deinen Standort zulässt, kannst du Ihn mit deinen Freunden teilen.";
+NSPhotoLibraryUsageDescription = "Wenn du den Zugriff auf deine Fotobibliothek erlaubst, kannst du Bilder und Videos auswählen, die du posten oder an andere Personen senden kannst.";
+NSMicrophoneUsageDescription = "Wenn du den Zugriff auf dein Mikrofon erlaubst, kannst du Videos aufnehmen und Sprachnachrichten versenden.";
+NSCameraUsageDescription = "Wenn du den Kamerazugriff aktivierst, kannst du Bilder oder Videos innerhalb der App aufnehmen, die du posten oder an andere Personen senden kannst.";

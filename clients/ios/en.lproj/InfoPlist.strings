@@ -1,0 +1,5 @@
+NSLocationWhenInUseUsageDescription = "If you allow access to your location, you can share it with your friends.";
+NSLocationAlwaysUsageDescription = "If you allow access to your location, you can share it with your friends.";
+NSPhotoLibraryUsageDescription = "Allowing access to your photo library allows you to select pictures and videos, which you can post or send to other people.";
+NSMicrophoneUsageDescription = "Allowing access to your microphone allows you to record videos and send voice messages.";
+NSCameraUsageDescription = "Turning on camera access allows you to take pictures or videos inside of the app, which you can post or send to other people.";
