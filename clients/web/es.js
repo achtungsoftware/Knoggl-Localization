@@ -95,9 +95,17 @@ export const es = {
     index_no_data_selling_content: "La mayoría de las otras redes sociales intercambian su información privada para maximizar las ganancias. ¡Knoggl no hace esto! Tus datos nunca serán cedidos a terceros, ni por dinero ni por chocolate.",
 
     index_chat_title: "Chatea con tus amigos.",
-    index_chat_content_p1: "Chatea con tus amigos o conocidos. Envía videos, fotos, audios o simplemente texto. Comparte tus grupos, publicaciones o perfiles favoritos.",
+    index_chat_content_p1: "Chatea con tus amigos o conocidos. Envía videos, fotos, mensajes de voz o simplemente texto. Comparte tus grupos, publicaciones o perfiles favoritos.",
     index_chat_content_p2: "Casi no hay límites para Knoggl Chat. Todos sus mensajes se almacenan de forma centralizada para que pueda acceder a ellos desde cualquier lugar, en cualquier dispositivo.",
 
     profile_picture_of: "Foto de perfil de .",
     cover_photo_by: "Foto de portada por .",
+
+    index_group_title: "¡Los grupos de Knoggl son geniales!",
+    index_group_content_p1: "Los grupos de Knoggl son similares a los perfiles, con la gran diferencia de que todos los miembros pueden crear publicaciones.",
+    index_group_content_p2: "¡Busca grupos que te puedan gustar o simplemente crea uno tú mismo!",
+
+    index_add_post_title: "Publica lo que quieras.",
+    index_add_post_content_p1: "Crea publicaciones exactamente como te gustan. Puede crear imágenes, videos, encuestas o simplemente publicaciones de texto. ¡El texto puede contener tantos enlaces, #hashtags y @menciones como quepan dentro del límite de 1500 caracteres!",
+    index_add_post_content_p2: "Si cometiste un error, puedes corregir el texto de tu publicación tantas veces como quieras. Si desea que su publicación reciba más atención, asegúrese de usar #hashtags que coincidan con la publicación.",
 };

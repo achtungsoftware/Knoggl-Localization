@@ -95,9 +95,17 @@ export const en = {
     index_no_data_selling_content: "Most other social networks trade your private information to maximize profits. Knoggl does not do this! Your data will never be passed on to third parties, neither for money nor for chocolate.",
 
     index_chat_title: "Chat with your friends.",
-    index_chat_content_p1: "Chat with your friends or acquaintances. Send videos, pictures, audios or just text. Share your favorite groups, posts or profiles.",
+    index_chat_content_p1: "Chat with your friends or acquaintances. Send videos, pictures, voice messages or just text. Share your favorite groups, posts or profiles.",
     index_chat_content_p2: "There are hardly any limits to Knoggl Chat. All your messages are stored centrally so you can access them from anywhere, on any device.",
 
     profile_picture_of: "Profile picture of .",
     cover_photo_by: "Cover photo by .",
+
+    index_group_title: "Knoggl groups are great!",
+    index_group_content_p1: "Knoggl groups are similar to profiles, with the big difference that every member can create posts!",
+    index_group_content_p2: "Search for groups you might like or simply create one yourself!",
+
+    index_add_post_title: "Post what you want.",
+    index_add_post_content_p1: "Create posts exactly how you like them. You can create image, video, poll or just text posts. The text can contain as many links, #hashtags and @mentions as fit within the 1,500 character limit!",
+    index_add_post_content_p2: "If you made a mistake, you can correct the text of your post as many times as you like. If you want your post to get more attention, make sure you use #hashtags that match the post.",
 };

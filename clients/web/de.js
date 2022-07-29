@@ -95,9 +95,17 @@ export const de = {
     index_no_data_selling_content: "Die meisten anderen sozialen Netzwerke handeln mit deinen privaten Daten, um einen größt möglichen Gewinn zu erzielen. Knoggl tut dies nicht! Deine Daten werden niemals an Dritte weitergegeben, weder für Geld, noch für Schokolade.",
 
     index_chat_title: "Chatte mit deinen Freunden.",
-    index_chat_content_p1: "Chatte mit deinen Freunden oder Bekannten. Verschicke Videos, Bilder, Audios oder einfach nur Text. Teile Deine Lieblingsgruppen, Beiträge oder Profile.",
+    index_chat_content_p1: "Chatte mit deinen Freunden oder Bekannten. Verschicke Videos, Bilder, Sprachnachrichten oder einfach nur Text. Teile Deine Lieblingsgruppen, Beiträge oder Profile.",
     index_chat_content_p2: "Dem Knoggl Chat sind kaum Grenzen gesetzt. All deine Nachrichten werden zentralisiert gespeichert, sodass du sie von überall und auf jedem Gerät aufrufen kannst.",
 
     profile_picture_of: "Profilbild von .",
     cover_photo_by: "Titelbild von .",
+
+    index_group_title: "Knoggl Gruppen sind was tolles!",
+    index_group_content_p1: "Knoggl Gruppen sind ähnlich aufgebaut wie Profile, mit dem großen Unterschied, dass jedes Mitglied Beiträge erstellen kann!",
+    index_group_content_p2: "Suche nach Gruppen die dir gefallen könnten oder erstelle ganz einfach selber eine!",
+
+    index_add_post_title: "Poste was du möchtest.",
+    index_add_post_content_p1: "Erstelle Beiträge genau so, wie sie dir gefallen. Du kannst Bilder, Videos, Umfragen oder nur Text-Beiträge erstellen. Der Text darf so viele Links, #Hashtags und @Erwähnungen enthalten wie in die 1,500 Zeichen Limitierung passen!",
+    index_add_post_content_p2: "Wenn du einen Fehler gemacht hast, kannst du den Text deines Beitrages so oft wie du möchtest korrigieren. Wenn du willst das dein Beitrag mehr Aufmerksamkeit erhält, sorge dafür das du zum Beitrag passende #Hashtags verwendest.",
 };
