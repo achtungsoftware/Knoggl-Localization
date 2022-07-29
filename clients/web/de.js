@@ -82,7 +82,7 @@ export const de = {
     meta_description: "Knoggl ist ein soziales Netzwerk, welches sich besonders um die Sicherheit deiner Privatsphäre bemüht.",
     follow_to_see_posts: "Folge . um die Beiträge zu sehen",
 
-    index_discover_title: "Entdecke knoggl.",
+    index_discover_title: "Entdecke Knoggl.",
     index_no_compromises_title: "Keine Kompromisse!",
     index_discover_content: "Knoggl ist ein soziales Netzwerk welches besonderen Wert auf das schützen deiner Privatsphäre legt. Knoggl nutzt hauptsächlich chronologische „Feeds”, sodass dir kein Inhalt vorgeschlagen wird der dich nicht interessiert.",
     index_no_compromises_content: "Auch wenn wir deine Daten schützen musst du nicht auf Funktionalität verzichten. Auf Knoggl kannst du Beiträge teilen, Freunde finden, Gruppen erstellen oder beitreten, mit Leuten chatten und vieles mehr.",

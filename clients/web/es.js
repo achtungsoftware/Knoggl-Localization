@@ -82,7 +82,7 @@ export const es = {
     meta_description: "Knoggl es una red social que tiene especial cuidado en proteger tu privacidad.",
     follow_to_see_posts: "Sigue a . para ver las publicaciones",
 
-    index_discover_title: "Descubre knogl.",
+    index_discover_title: "Descubre Knoggl.",
     index_no_compromises_title: "¡Sin compromiso!",
     index_discover_content: "Knoggl es una red social que otorga especial importancia a la protección de su privacidad. Knoggl utiliza principalmente „feeds” cronológicos para que no se le sugiera contenido que no le interese.",
     index_no_compromises_content: "Incluso si protegemos sus datos, no tiene que renunciar a la funcionalidad. En Knoggl puede compartir publicaciones, encontrar amigos, crear o unirse a grupos, chatear con personas y mucho más.",

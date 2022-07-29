@@ -82,7 +82,7 @@ export const en = {
     meta_description: "Knoggl is a social network that takes special care to protect your privacy.",
     follow_to_see_posts: "Follow . to see the posts",
 
-    index_discover_title: "Discover knoggl.",
+    index_discover_title: "Discover Knoggl.",
     index_no_compromises_title: "No compromise!",
     index_discover_content: "Knoggl is a social network that attaches particular importance to protecting your privacy. Knoggl mainly uses chronological feeds so you won't be suggested content that doesn't interest you.",
     index_no_compromises_content: "Even if we protect your data, you don't have to forego functionality. On Knoggl you can share posts, find friends, create or join groups, chat with people and much more.",
