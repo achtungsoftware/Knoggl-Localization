@@ -271,7 +271,7 @@
 "reportgroup" = "Пожаловаться на группу";
 "reportcomment" = "Пожаловаться на комментарий";
 "reportuser" = "Пожаловаться на пользователя";
-"reportpost" = Пожаловаться на пост";
+"reportpost" = "Пожаловаться на пост";
 "similarvideos" = "Похожие видео";
 "videos" = "Видео";
 "nodatagroups" = "Здесь показаны группы, которыми вы владеете или к которым вы присоединились.";
@@ -288,7 +288,7 @@
 "videofeedloop" = "Зацикливание видео в ленте видео";
 "twocolumns" = "Две колонки";
 "threecolumns" = "Три колонки";
-"fourcolumns" = "Четыре колонки;
+"fourcolumns" = "Четыре колонки";
 "gridfeedcolumns" = "В виде сетки";
 "accountverifiedusernamechangenotallowed" = "Поскольку ваша учетная запись подтверждена, вы не можете изменить свое имя пользователя.";
 "forgotyourpassword" = "Забыли пароль?";
