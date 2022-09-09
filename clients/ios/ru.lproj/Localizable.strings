@@ -355,3 +355,7 @@
 "each_additional_group_costs_x_knogs" = "Каждая дополнительная группа стоит x@ Knogs.";
 "the_real_social_network" = "Настоящая социальная сеть";
 "post_comment_replies" = "Ответы на комментарии";
+"post_comment_notification_description" = "Получайте уведомления, когда кто-то комментирует ваш пост.";
+"post_mention_notification_description" = "Получайте уведомления, когда кто-то упоминает вас в публикации.";
+"post_comment_mention_notification_description" = "Получайте уведомления, когда кто-то упоминает вас в комментарии.";
+"post_comment_replies_notification_description" = "Получайте уведомления, когда кто-то отвечает на ваш комментарий.";

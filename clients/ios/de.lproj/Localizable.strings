@@ -355,3 +355,7 @@
 "each_additional_group_costs_x_knogs" = "Jede weitere Gruppe kostet x@ Knogs.";
 "the_real_social_network" = "Das wahre soziale Netzwerk";
 "post_comment_replies" = "Kommentar Antworten";
+"post_comment_notification_description" = "Lass dich benachrichtigen, wenn jemand deinen Beitrag kommentiert.";
+"post_mention_notification_description" = "Lass dich benachrichtigen, wenn dich jemand in einem Beitrag erwähnt.";
+"post_comment_mention_notification_description" = "Lass dich benachrichtigen, wenn dich jemand in einem Kommentar erwähnt.";
+"post_comment_replies_notification_description" = "Lass dich benachrichtigen, wenn jemand auf deinen Kommentar antwortet.";
