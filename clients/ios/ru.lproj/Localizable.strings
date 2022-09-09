@@ -1,3 +1,11 @@
+//
+//  Copyright © 2020 - present Knoggl (Julian Gerhards)
+//
+//  GitHub https://github.com/knoggl/Knoggl-iOS
+//
+//  Web https://www.knoggl.com
+//
+
 "login" = "Авторизоваться";
 "error" = "Ошибка";
 "filloutfields" = "Пожалуйста, заполните все поля";
@@ -346,3 +354,4 @@
 "only_x_groups_are_free" = "Бесплатны только группы x@.";
 "each_additional_group_costs_x_knogs" = "Каждая дополнительная группа стоит x@ Knogs.";
 "the_real_social_network" = "Настоящая социальная сеть";
+"post_comment_replies" = "Ответы на комментарии";

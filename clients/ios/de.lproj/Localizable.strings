@@ -1,3 +1,11 @@
+//
+//  Copyright © 2020 - present Knoggl (Julian Gerhards)
+//
+//  GitHub https://github.com/knoggl/Knoggl-iOS
+//
+//  Web https://www.knoggl.com
+//
+
 "login" = "Anmelden";
 "error" = "Fehler";
 "filloutfields" = "Bitte fülle alle Felder aus";
@@ -281,7 +289,7 @@
 "postcomments" = "Beitrags Kommentare";
 "commentedonyourpost" = "Hat deinen Beitrag kommentiert";
 "on" = "An";
-"silent" = "Leise";
+"silent" = "Stumm";
 "off" = "Aus";
 "appsettings" = "App Einstellungen";
 "videofeedscaletofill" = "Skaliere Videos auf die Bildschirmgröße im Video-Feed";
@@ -346,3 +354,4 @@
 "only_x_groups_are_free" = "Nur x@ Gruppen sind kostenlos.";
 "each_additional_group_costs_x_knogs" = "Jede weitere Gruppe kostet x@ Knogs.";
 "the_real_social_network" = "Das wahre soziale Netzwerk";
+"post_comment_replies" = "Kommentar Antworten";

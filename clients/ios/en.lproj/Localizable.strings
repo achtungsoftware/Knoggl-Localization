@@ -1,3 +1,11 @@
+//
+//  Copyright © 2020 - present Knoggl (Julian Gerhards)
+//
+//  GitHub https://github.com/knoggl/Knoggl-iOS
+//
+//  Web https://www.knoggl.com
+//
+
 "login" = "Log In";
 "error" = "Error";
 "filloutfields" = "Please fill in all fields";
@@ -220,8 +228,8 @@
 "taggedyouinapost" = "Mentioned you in a post";
 "taggedyouinacomment" = "Mentioned you in a comment";
 "thispostnolongerexists" = "This post no longer exists";
-"postmentions" = "Post Mentions";
-"commentmentions" = "Comment Mentions";
+"postmentions" = "Post mentions";
+"commentmentions" = "Comment mentions";
 "acceptrequest" = "Accept request";
 "yourinterests" = "Your Interests";
 "hereyoucanmanageyourinterests" = "Here you can manage your interests";
@@ -346,3 +354,4 @@
 "only_x_groups_are_free" = "Only x@ groups are free.";
 "each_additional_group_costs_x_knogs" = "Each additional group costs x@ Knogs.";
 "the_real_social_network" = "The real social network";
+"post_comment_replies" = "Comment replies";
